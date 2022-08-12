@@ -1,0 +1,4 @@
+    - name: Generate the sitemap
+      uses: cicirello/generate-sitemap@v1
+      with:
+        https://www1.usgs.gov/csas/swap/
