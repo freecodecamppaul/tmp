@@ -36,7 +36,7 @@ inputs:
   base-url-path:
     description: 'The url of your webpage'
     required: false
-    default: 'https://web.address.of.your.nifty.website/'
+    default: 'https://www1.usgs.gov/csas/swap/'
   include-html:
     description: 'Indicates whether to include html files in the sitemap.'
     required: false
